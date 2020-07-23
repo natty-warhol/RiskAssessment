@@ -166,15 +166,17 @@ This section is for people that have something to hide. Are you a whistle blower
 3. Hard Mode Security
 <br/>
 <br/>
-### No Protection ***"Bro, it's just a phone!"***
+
+### No Protection ***"Bro, it's just a phone!"***  
 I could say the same things I said in the **computer section**, but phones are worse. When you're using a phone, it gives out blanket permissions. All the apps you're using have constant access to all the peripherals they ask for. Use Facebook or Google at all on your phone? (If you use an Android phone, it has Google on it.) Those apps alone have access to all of your inputs, *microphones, cameras, files, text messages, phone calls, etc.,*.  
 <br/>
-I mean, you should know by now that when something is for free, they are selling your data and information, so imagine who could get ahold of that information with simple a hefty bill-book!
+I mean, you should know by now that when something is for free, they are selling your data and information, so imagine who could get ahold of that information with simple a hefty bill-book!  
 <br/>
-### Simple Security Measures
+### Simple Security Measures  
 Simple security in this section *feels* like the bare minimum, but realistically, phones are the easiest to lock down (or the most pointless... due to reasons you can read about elsewhere). All you have to do really is simply lower your network traffic and route it somehow to prevent IP tracking.  
 <br/>
-#### Network Routing
-To prevent any of your traffic becoming someone elses information, through your ISP, install **Blokada** from **F-Droid**, as it's the open-source version, and allows more protection. Then, set it up!  
+#### Network Routing  
+To prevent any of your traffic becoming someone elses information, through your ISP, install **Blokada** from **F-Droid**, as it's the open-source version, and allows more protection. Then, set it up! 
+<br/> 
 anecdotally, I also use a **VPN** service that provides proxies for subverting blocklists and such, but it's also good for communication apps, like **Telegram** which tout encryption and no logs, but also, the environment it's developed in (Russia), it can be a little hard to trust fully. Sending it through a proxy will effectively change the tagged location when used with **Blokada**, as to protect UDP leakage.
 
